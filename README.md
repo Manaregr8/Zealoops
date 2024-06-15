@@ -4,8 +4,6 @@ Welcome to **Zealoops**! 🚀
 
 Zealoops is a single-page application that brings modern web development techniques together in one seamless experience. Built with **HTML**, **CSS**, **JavaScript**, and the powerful **Svelte** framework, Zealoops leverages cutting-edge APIs like **Web3** and **Firebase** to deliver a dynamic and interactive web application.
 
-![Zealoops Screenshot](./assets/screenshot.png)
-
 ## Table of Contents
 
 - [Features](#features)
@@ -41,6 +39,16 @@ Zealoops is a single-page application that brings modern web development techniq
 
 Follow these instructions to get a copy of Zealoops up and running on your local machine for development and testing purposes.
 
+- Fork this repository
+- Open New Codepen
+- In the terminal enter below command
 ```bash
 npm install
 ```
+- After installing npm dependencies run development to local server by entering following command
+```bash 
+npm run dev
+```
+- Open port in browser and contribute.
+
+Thank You.
